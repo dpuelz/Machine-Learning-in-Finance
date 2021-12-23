@@ -3,9 +3,9 @@ PhD-level class at the University of Texas at Austin, Spring 2022
 
 ## Topics
 
-## Supervised Learning
+### Supervised Learning
 
-## Unsupervised Learning
+### Unsupervised Learning
 
-## Causal methods
+### Causal methods
 
