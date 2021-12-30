@@ -1,6 +1,8 @@
 # Machine Learning in Finance 
 PhD-level class at the University of Texas at Austin, Spring 2022
 
+The structure of this class is simple.  We will have periodic lectures to cover topics in ML, and (crucially) we will spend time discussing new papers in the field. 
+
 ## Topics with Papers
 
 ### Supervised & Unsupervised Learning
