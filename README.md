@@ -5,6 +5,10 @@ The structure of this class is simple.  First, we will read [Machine Learning in
 
 You can find the syllabus [here](course_outline.pdf).
 
+## Wharton Research Data Services
+
+As PhD students, you can access WRDS, which is a rich data source for finance and economics research.  Please request an account with UT at the following link if you don't already have one.
+
 ## Books
 
 - [Machine Learning in Asset Pricing](https://press.princeton.edu/books/hardcover/9780691218700/machine-learning-in-asset-pricing) (required)
