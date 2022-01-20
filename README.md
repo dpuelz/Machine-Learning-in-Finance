@@ -39,7 +39,7 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 
 - [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full)
 
-### Presentation schedule
+## Presentation schedule
 
 Jan 20: Intro to class, [slides](slides/MLinFinance_Intro.pdf)
 
