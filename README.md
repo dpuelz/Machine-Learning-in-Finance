@@ -27,6 +27,8 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 
 ### Causal methods (machine learning + causality + economics)
 
+- [Regularization and Confounding in Linear Regression for Treatment Effect Estimation](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-1/Regularization-and-Confounding-in-Linear-Regression-for-Treatment-Effect-Estimation/10.1214/16-BA1044.full)
+
 - [Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978)
 
 - [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full)
