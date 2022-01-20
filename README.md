@@ -21,6 +21,10 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 
 ### Supervised & unsupervised learning
 
+- [Empirical Asset Pricing via Machine Learning](https://academic.oup.com/rfs/article/33/5/2223/5758276)
+
+- [Dissecting Characteristics Nonparametrically](https://faculty.chicagobooth.edu/-/media/faculty/michael-weber/nonparametrics.pdf)
+
 - [Monotonic Effects of Characteristics on Returns](papers/Monotonic_AOAS_2020production.pdf)
 
 - [Confronting Machine Learning With Financial Research](https://arxiv.org/pdf/2103.00366.pdf)
