@@ -42,20 +42,35 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 ### Presentation schedule
 
 Jan 20: Intro to class
+
 Jan 27:
+
 Feb 3:
+
 Feb 10:
+
 Feb 17:
+
 Feb 24:
+
 Mar 3:
+
 Mar 10:
+
 Mar 17: Spring break
+
 Mar 24:
+
 Mar 31:
+
 Apr 7:
+
 Apr 14:
+
 Apr 21:
+
 Apr 28:
+
 May 5:
 
 
