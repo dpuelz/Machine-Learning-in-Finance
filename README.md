@@ -38,3 +38,24 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 - [Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978)
 
 - [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full)
+
+### Presentation schedule
+
+Jan 20: Intro to class
+Jan 27:
+Feb 3:
+Feb 10:
+Feb 17:
+Feb 24:
+Mar 3:
+Mar 10:
+Mar 17: Spring break
+Mar 24:
+Mar 31:
+Apr 7:
+Apr 14:
+Apr 21:
+Apr 28:
+May 5:
+
+
