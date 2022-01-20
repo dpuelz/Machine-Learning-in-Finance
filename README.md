@@ -21,6 +21,8 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 
 ### Supervised & unsupervised learning
 
+- [Monotonic Effects of Characteristics on Returns](papers/Monotonic_AOAS_2020production.pdf)
+
 - [Confronting Machine Learning With Financial Research](https://arxiv.org/pdf/2103.00366.pdf)
 
 - [The Virtue of Complexity in Machine Learning Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)
