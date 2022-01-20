@@ -41,7 +41,7 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 
 ### Presentation schedule
 
-Jan 20: Intro to class
+Jan 20: Intro to class, [slides](slides/MLinFinance_Intro.pdf)
 
 Jan 27: MLAP: Ch. 1-half of 2: ..., Empirical Asset Pricing via Machine Learning: ...
 
