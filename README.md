@@ -45,7 +45,7 @@ Jan 20: Intro to class, [slides](slides/MLinFinance_Intro.pdf)
 
 Jan 27: [BV tradeoff](slides/MLinFinance_BVtradeoff.pdf): David / MLAP: Ch. 1-2.3: Kevin / Empirical Asset Pricing via Machine Learning: Tommy
 
-Feb 3: Empirical Asset Pricing via Machine Learning (wrap-up): Tommy / [Model selection](slides/MLinFinance_BVtradeoff.pdf): David / MLAP: Ch. 2.3 to end of Ch. 2: ... / Dissecting Characteristics Nonparametrically: ...
+Feb 3: Empirical Asset Pricing via Machine Learning (wrap-up): Tommy / [Model selection](slides/MLinFinance_BVtradeoff.pdf): David / MLAP: Ch. 2.3 to end of Ch. 2: ... Dissecting Characteristics Nonparametrically: ...
 
 Feb 10:
 
