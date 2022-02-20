@@ -49,7 +49,7 @@ Feb 3: :snowflake: Snow Day :snowflake:
 
 Feb 10: [Empirical Asset Pricing via Machine Learning](slides/EmpiricalAssetPricingviaMachineLearningpresentation.pdf) (wrap-up): Tommy / [MLAP: Ch. 2.3 to end of Ch. 2](slides/prateek.pptx): Prateek / [Dissecting Characteristics Nonparametrically](slides/DissectingParamsNonparametrically_YH.pdf): Yilin
 
-Feb 17: [Model selection](slides/MLinFinance_BVtradeoff.pdf): David / [Introduction to Bayesian Additive Regression Trees (BART)](slides/BART___Overiew.pdf): Frank / [MLAP: Ch. 3.1-3.3](MLAP Ch 31-33.pdf): Steven
+Feb 17: [Model selection](slides/MLinFinance_BVtradeoff.pdf): David / [Introduction to Bayesian Additive Regression Trees (BART)](slides/BART___Overiew.pdf): Frank / [MLAP: Ch. 3.1-3.3](slides/MLAP Ch 31-33.pdf): Steven
 
 Feb 24:
 
