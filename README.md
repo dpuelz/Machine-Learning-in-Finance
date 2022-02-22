@@ -51,7 +51,7 @@ Feb 10: [Empirical Asset Pricing via Machine Learning](slides/EmpiricalAssetPric
 
 Feb 17: [Model selection](slides/MLinFinance_BVtradeoff.pdf): David / [Introduction to Bayesian Additive Regression Trees (BART)](slides/BART___Overiew.pdf): Frank / [MLAP: Ch. 3.1-3.3](slides/MLAPCh31-33.pdf): Steven
 
-Feb 24:
+Feb 24: MLAP: rest of Ch. 3: Zirui / Confronting Machine Learning With Financial Research: Minjoo 
 
 Mar 3:
 
