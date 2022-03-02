@@ -53,7 +53,7 @@ Feb 17: [Model selection](slides/MLinFinance_BVtradeoff.pdf): David / [Introduct
 
 Feb 24: MLAP: rest of Ch. 3: Zirui / Confronting Machine Learning With Financial Research: Minjoo 
 
-Mar 3:
+Mar 3: MLAP: Ch. 4.1-4.2: Deheng / [A Modern Gauss-Markov Theorem](papers/Hansen2021_ModernGaussMarkovTheorem.pdf): Batuhan
 
 Mar 10:
 
