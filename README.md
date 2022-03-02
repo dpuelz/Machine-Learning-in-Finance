@@ -55,7 +55,7 @@ Feb 24: [MLAP: rest of Ch. 3](slides/zirio.pdf): Zirui / [Confronting Machine Le
 
 Mar 3: MLAP: Ch. 4.1-4.2: Deheng / [A Modern Gauss-Markov Theorem](papers/Hansen2021_ModernGaussMarkovTheorem.pdf): Batuhan
 
-Mar 10:
+Mar 10: Empirical asset pricing with ML paper replications
 
 Mar 17: Spring break
 
