@@ -57,13 +57,13 @@ Feb 17: [Model selection](slides/MLinFinance_BVtradeoff.pdf): David / [Introduct
 
 Feb 24: [MLAP: rest of Ch. 3](slides/zirio.pdf): Zirui / [Confronting Machine Learning With Financial Research](slides/minjoo.pdf): Minjoo 
 
-Mar 3: [MLAP: Ch. 4.1-4.2](slides/deheng.pdf): Deheng / [A Modern Gauss-Markov Theorem](papers/Hansen2021_ModernGaussMarkovTheorem.pdf): Batuhan
+Mar 3: [MLAP: Ch. 4.1-4.4](slides/deheng.pdf): Deheng / [A Modern Gauss-Markov Theorem](papers/Hansen2021_ModernGaussMarkovTheorem.pdf): Batuhan
 
 Mar 10: Empirical asset pricing with ML paper replications: All / Introduction to TACC: Frank
 
 Mar 17: Spring break
 
-Mar 24: Principal Component Analysis: David / MLAP: Ch. 4.3-end of Ch. 4: ... / Reimagining Price Trends: ...
+Mar 24: Principal Component Analysis: David / MLAP: Ch. 4.4-end of Ch. 4 + a referenced paper: ... / Reimagining Price Trends: ...
 
 Mar 31:
 
