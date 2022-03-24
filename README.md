@@ -63,7 +63,7 @@ Mar 10: Empirical asset pricing with ML paper replications: All / Introduction t
 
 Mar 17: Spring break
 
-Mar 24: Principal Component Analysis: David / MLAP: Ch. 4.4-end of Ch. 4 + a referenced paper from 4.5: ... / Reimagining Price Trends: ...
+Mar 24: Principal Component Analysis: David / MLAP: Ch. 4.4-end of Ch. 4 + a referenced paper from 4.5: Batuhan / Reimagining Price Trends: Tommy
 
 Mar 31:
 
