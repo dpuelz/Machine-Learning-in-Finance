@@ -65,7 +65,7 @@ Mar 10: Empirical asset pricing with ML paper replications: All / Introduction t
 
 Mar 17: Spring break
 
-Mar 24: [Principal Component Analysis](slides/MLinFinance_PCA.pdf): David / [MLAP: Ch. 4.4-end of Ch. 4 + a referenced paper from 4.5](slides/Batuhan_2.pdf): Batuhan / [Reimagining Price Trends](slides/Tommy_2.pdf): Tommy
+Mar 24: [Principal Component Analysis](slides/MLinFinance_PCA.pdf): David / [MLAP: Ch. 4.4-end of Ch. 4 + a referenced paper from 4.5](slides/Batuhan_2.pdf): Batuhan / [Reimagining Price Trends](slides/Tommy_2): Tommy
 
 Mar 31: [MLAP: Ch. 5 to end of Ch. 5.2](slides/Prateek_2.pptx): Prateek / [Anomalies and the Expected Market Return](slides/Zirui_2.pdf): Zirui
 
