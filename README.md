@@ -67,7 +67,7 @@ Mar 17: Spring break
 
 Mar 24: Principal Component Analysis: David / MLAP: Ch. 4.4-end of Ch. 4 + a referenced paper from 4.5: Batuhan / Reimagining Price Trends: Tommy
 
-Mar 31: MLAP: Ch. 5 to end of Ch. 5.2: ... / Anomalies and the Expected Market Return: ...
+Mar 31: MLAP: Ch. 5 to end of Ch. 5.2: Prateek / Anomalies and the Expected Market Return: Zirui
 
 Apr 7:
 
