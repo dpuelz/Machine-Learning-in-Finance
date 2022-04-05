@@ -71,7 +71,7 @@ Mar 24: [Principal Component Analysis](slides/MLinFinance_PCA.pdf): David / [MLA
 
 Mar 31: [MLAP: Ch. 5 to end of Ch. 5.2](slides/Prateek_2.pptx): Prateek / [Anomalies and the Expected Market Return](slides/Zirui_2.pdf): Zirui
 
-Apr 7: MLAP: Ch. 5.3 to end of Ch. 5: ... / Machine Forecast Disagreement and Equity Returns: ...
+Apr 7: MLAP: Ch. 5.3 to end of Ch. 5: Kevin / Machine Forecast Disagreement and Equity Returns: ...
 
 Apr 14:
 
