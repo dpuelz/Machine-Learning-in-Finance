@@ -37,6 +37,8 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 
 - [Anomalies and the Expected Market Return](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13099)
 
+- [Machine Forecast Disagreement and Equity Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040247)
+
 ### Causal methods (machine learning + causality + economics)
 
 - [Regularization and Confounding in Linear Regression for Treatment Effect Estimation](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-1/Regularization-and-Confounding-in-Linear-Regression-for-Treatment-Effect-Estimation/10.1214/16-BA1044.full)
@@ -69,7 +71,7 @@ Mar 24: [Principal Component Analysis](slides/MLinFinance_PCA.pdf): David / [MLA
 
 Mar 31: [MLAP: Ch. 5 to end of Ch. 5.2](slides/Prateek_2.pptx): Prateek / [Anomalies and the Expected Market Return](slides/Zirui_2.pdf): Zirui
 
-Apr 7:
+Apr 7: MLAP: Ch. 5.3 to end of Ch. 5: ... / Machine Forecast Disagreement and Equity Returns: ...
 
 Apr 14:
 
