@@ -75,7 +75,7 @@ Mar 31: [MLAP: Ch. 5 to end of Ch. 5.2](slides/Prateek_2.pptx): Prateek / [Anoma
 
 Apr 7: MLAP: Ch. 5.3 to end of Ch. 5: Kevin / Machine Forecast Disagreement and Equity Returns: Minjoo + Deheng
 
-Apr 14:
+Apr 14: Bayesian Causal Forests discussion: Frank
 
 Apr 21:
 
