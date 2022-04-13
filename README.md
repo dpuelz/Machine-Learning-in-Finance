@@ -49,6 +49,8 @@ As PhD students, you can access WRDS, which is a rich data source for finance an
 
 - [A National Experiment Reveals where a Growth Mindset Improves Achievement](http://dx.doi.org/10.1038/s41586-019-1466-y)
 
+- [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342)
+
 ## Presentation schedule
 
 Jan 20: Intro to class, [slides](slides/MLinFinance_Intro.pdf)
