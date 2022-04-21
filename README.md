@@ -79,7 +79,7 @@ Apr 7: [MLAP: Ch. 5.3 to end of Ch. 5](slides/kevin_2.pdf): Kevin / [Machine For
 
 Apr 14: Bayesian Causal Forests discussion: Frank
 
-Apr 21:
+Apr 21: Bayesian Causal Forests discussion (continued): Frank / [MLAP: Ch. 6](slides/steven_2.pdf): Steven
 
 Apr 28:
 
