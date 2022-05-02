@@ -81,8 +81,8 @@ Apr 14: Bayesian Causal Forests discussion: Frank
 
 Apr 21: Bayesian Causal Forests discussion (continued): Frank / [MLAP: Ch. 6](slides/steven_2.pdf): Steven
 
-Apr 28: Taking a step back: Causality overview, where ML fits in, and regularization-induced confounding: David
+Apr 28: [Taking a step back: Causality overview, where ML fits in, and regularization-induced confounding](slides/MLinFinance_RIC.pdf): David.  [Some notes on regularization-induced confounding in linear models](paper/RegularizationInducedConfounding.pdf)
 
-May 5:
+May 5: .....
 
 
